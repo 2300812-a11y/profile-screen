@@ -11,7 +11,7 @@ function App() {
         />
         <h2 className="profile-name">Luis Gabriel Ariola</h2>
         <p className="profile-description">
-           I am willing to learn from my mistakes to grow wiser everyday..
+           sbkjbvhsbvag.
         </p>
 
         <div className="contact-info">
