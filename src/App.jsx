@@ -11,8 +11,7 @@ function App() {
         />
         <h2 className="profile-name">Luis Gabriel Ariola</h2>
         <p className="profile-description">
-          Web Developer passionate about creating responsive and user-friendly
-          websites.
+           I am willing to learn from my mistakes to grow wiser everyday..
         </p>
 
         <div className="contact-info">
